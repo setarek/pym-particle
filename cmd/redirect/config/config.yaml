@@ -1,0 +1,14 @@
+SERVICE_NAME: redirect
+HOSTNAME: localhost
+PORT: 9005
+RUN_MODE: development
+DB_HOST: "0.0.0.0"
+DB_PORT: "27017"
+DB_NAME: "pym_particle_dev"
+DB_USER: "chm1"
+DB_PASSWORD: "chm98"
+RABBITMQ_PROTOCOL: amqp
+RABBITMQ_HOST: localhost
+RABBITMQ_PORT: 5672
+RABBITMQ_USER: guest
+RABBITMQ_PASSWORD: guest
